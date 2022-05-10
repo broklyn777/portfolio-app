@@ -9,6 +9,16 @@ npm run dev
 # or
 yarn dev
 ```
+echo "# portfolio-app" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/broklyn777/portfolio-app.git
+git push -u origin main
+
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
