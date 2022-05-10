@@ -14,7 +14,7 @@ const intro = () => {
         <p className={styles.desc}>
           Vi erbjuder ett helhetskoncept för att du ska lyckas digitalt!
         </p>
-        <button className={styles.button}>DISCOVER</button>
+        <button className={styles.button}>SE MER</button>
       </div>
       <div className={styles.card}>
         <Image
