@@ -9,17 +9,21 @@
 }
 
 .title {
-  font-weight: 400;
+  font-weight: 500;
   color: white;
-  background-color: rgba(0, 128, 0, 0.774);
+  background-color: #e2ac40;
   width: max-content;
   padding: 5px;
   transition: all 1s ease;
+  padding: 10px 20px;
+  border-radius: 15px;
 }
 
 .title:hover {
-  background-color: white;
-  color: rgba(0, 128, 0, 0.774);
+  background-color: #fff;
+  color: #e2ac40;
+  border: #e2ac40 solid;
+  cursor: pointer;
 }
 
 .linkTitle {

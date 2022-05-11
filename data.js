@@ -7,7 +7,7 @@ export const data = [
         video: "Avocado.mp4",
         photo: "design.png",
         longDesc:
-            "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+            " Hos oss får du skräddarsydda hemsidor, hjälp med sökmotoroptimering, unika annonstexter och mer. Vi skapar nya hemsidor som är responsiva och användarvänliga. Har du redan en hemsida så kan vi arbeta med analyser och relevanta förbättringar.",
         images: [
             {
                 id: 1,

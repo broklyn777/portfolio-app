@@ -11,7 +11,7 @@ export default function Home({ services }) {
     <div >
       <Head>
         <title>Media3D</title>
-        <meta name="description" content="Bäte Webkillen i stan!" />
+        <meta name="description" content="Bästa Webkillen i stan!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

@@ -18,10 +18,11 @@
 .title {
   font-size: 50px;
   margin: 0;
+  font-weight: 400;
 }
 
 .brand {
-  color: green;
+  color: #e2ac40;
 }
 .desc {
   font-size: 20px;
