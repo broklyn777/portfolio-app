@@ -1,13 +1,12 @@
-import Link from "next/link"
-import styles from "../styles/Navbar.module.css"
+import Link from "next/link";
+import styles from "../styles/Navbar.module.css";
 
 const Navbar = () => {
   return (
     <div className={styles.container}>
       <Link href="/">Media3D</Link>
       <ul className={styles.list}>
-
-<li className={styles.listItem}>
+        <li className={styles.listItem}>
           <Link href="/products/design">DESIGN</Link>
         </li>
         <li className={styles.listItem}>
@@ -20,12 +19,11 @@ const Navbar = () => {
           <Link href="/products/photography">PHOTOGRAPHY</Link>
         </li>
         <li className={styles.listItem}>
-          <Link href="/contact">CONTACT</Link>
+          <Link href="/Kontakt">KONTAKT</Link>
         </li>
-
       </ul>
-      </div>
-  )
-}
+    </div>
+  );
+};
 
-export default Navbar
+export default Navbar;

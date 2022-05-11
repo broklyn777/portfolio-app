@@ -5,8 +5,8 @@ import Circle from "./Circle";
 const intro = () => {
   return (
     <div className={styles.container}>
-      <Circle backgroundColor="#01c686" top="-45vh" left="-45vh" />
-      <Circle backgroundColor="#b0ff49" right="-40vh" />
+      <Circle backgroundColor="#AAAAAA" top="-45vh" left="-45vh" />
+      <Circle backgroundColor="#DB1C92" right="-40vh" />
       <div className={styles.card}>
         <h1 className={styles.title}>
           <span className={styles.brand}>GranitMedia</span> DIGITAL BYRÅ
