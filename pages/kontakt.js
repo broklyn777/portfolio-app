@@ -1,9 +1,10 @@
 import Circle from "../components/Circle";
-import styles from "../styles/Contact.module.css";
+import styles from "../styles/Kontakt.module.css";
 
 const Kontakt = () => {
     return (
         <div className={styles.container}>
+            {/* <Circle className={styles.circle} /> */}
             <Circle backgroundColor="green" left="-40vh" top="-20vh" className={styles.circle} />
             <Circle backgroundColor="yellow" right="-30vh" bottom="-60vh" className={styles.circle} />
             <h1 className={styles.title}>Get in Touch</h1>

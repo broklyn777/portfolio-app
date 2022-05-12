@@ -19,7 +19,7 @@ const Navbar = () => {
           <Link href="/products/photography">PHOTOGRAPHY</Link>
         </li>
         <li className={styles.listItem}>
-          <Link href="/Kontakt">KONTAKT</Link>
+          <Link href="/kontakt">KONTAKT</Link>
         </li>
       </ul>
     </div>
